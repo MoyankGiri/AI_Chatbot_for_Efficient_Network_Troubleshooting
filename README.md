@@ -9,3 +9,5 @@ to inefficiencies, leading to delays in resolving network issues. To address thi
 development of a network-based chatbot. This innovative solution aims to streamline the troubleshooting
 process by providing instant access to relevant information and guidance, thereby enhancing the efficiency
 and effectiveness of network administrators in maintaining and optimizing network performance.
+
+### For more details, please refer to the [Project Report](https://github.com/MoyankGiri/AI_Chatbot_for_Efficient_Network_Troubleshooting/blob/main/AI%20Chatbot%20for%20Efficient%20Network%20Troubleshooting.pdf)
